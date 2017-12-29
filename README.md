@@ -1,12 +1,12 @@
-*# Image-Classification-using-Machine-Learning*
+* Image-Classification-using-Machine-Learning*
 Implementation of Neural Networks, Gradient boosting and KNN for predicting correct image orientation.
 
-*USAGE:  *
-*Training:* 
+*USAGE:* 
+*Training:*  
 ./orient.py test test_file.txt model_file.txt [model]
 where [model] is again one of nearest, adaboost, nnet, best.
 
-*Testing: *
+*Testing:* 
 ./orient.py test test_file.txt model_file.txt [model]
 where [model] is again one of nearest, adaboost, nnet, best.
 
